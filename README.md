@@ -15,6 +15,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+77 | [A. Football](https://codeforces.com/problemset/problem/96/A) | [GNU C++17 (64)](./codeforces/1463/D.cpp) | `math` `brute force` | Sep/26/2022 17:16 | 
 1948 | [A. Watermelon](https://codeforces.com/problemset/problem/4/A) | [GNU C++17 (64)](./codeforces/1463/D.cpp) | `math` `brute force` `*800` | Apr/30/2022 11:18 | 
 
 
