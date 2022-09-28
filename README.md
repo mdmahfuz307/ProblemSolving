@@ -16,7 +16,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
 77 | [A. Football](https://codeforces.com/problemset/problem/96/A) | [GNU C++17 (64)](.//Codeforces/A/A_Football.cpp) | ` implementation ` ` strings` | Sep/26/2022 17:16 | 
-718 | [A. Sum of 2050](https://codeforces.com/contest/1517/problem/A) | [GNU C++17 (64)](./codeforces/1463/D.cpp) | `math` ` greedy` `*800` | Apr/30/2022 11:18 | 
+718 | [A. Sum of 2050](https://codeforces.com/contest/1517/problem/A) | [GNU C++17 (64)](./codeforces/1463/D.cpp) | `math` ` greedy` `*800` | Sep/28/2022 23:41 | 
 1948 | [A. Watermelon](https://codeforces.com/problemset/problem/4/A) | [GNU C++17 (64)](./codeforces/1463/D.cpp) | `math` `brute force` `*800` | Apr/30/2022 11:18 | 
 
 
