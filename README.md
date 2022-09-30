@@ -15,7 +15,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-4 | [A. Perfectly Imperfect Array](https://codeforces.com/problemset/problem/1514/A) | [GNU C++17 (64)](.//codeforces/A/Perfectly_Imperfect_Array.cpp) | `math` ` greedy` `*800` | Sep/30/2022 22:58 | 
+4 | [A. Perfectly Imperfect Array](https://codeforces.com/problemset/problem/1514/A) | [GNU C++17 (64)](./Codeforces/A/Perfectly_Imperfect_Array.cpp) | `math` ` greedy` `*800` | Sep/30/2022 22:58 | 
 3 | [A. Sum of 2050](https://codeforces.com/contest/1517/problem/A) | [GNU C++17 (64)](./codeforces/1463/D.cpp) | `math` ` greedy` `*800` | Sep/28/2022 23:41 | 
 2 | [A. Football](https://codeforces.com/problemset/problem/96/A) | [GNU C++17 (64)](.//Codeforces/A/A_Football.cpp) | ` implementation ` ` strings` | Sep/26/2022 17:16 | 
 1 | [A. Watermelon](https://codeforces.com/problemset/problem/4/A) | [GNU C++17 (64)](./codeforces/1463/D.cpp) | `math` `brute force` `*800` | Apr/30/2022 11:18 | 
