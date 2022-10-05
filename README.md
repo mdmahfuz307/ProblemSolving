@@ -15,6 +15,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+9 | [A. Odd Set](https://codeforces.com/contest/1542/problem/A) | [GNU C++17 (64)](./Codeforces/A/A_Phoenix_and_Gold.cpp) | `math` `*800` | Oct/05/2022 23:53 | 
 8 | [A. Fair Playoff](https://codeforces.com/contest/1535/problem/A) | [GNU C++17 (64)](./Codeforces/A/A_Phoenix_and_Gold.cpp) | `math` ` greedy` `*800` | Oct/04/2022 23:52 | 
 7 | [A. Mean Inequality](https://codeforces.com/contest/1520/problem/A) | [GNU C++17 (64)](./Codeforces/A/A_Phoenix_and_Gold.cpp) | `math` ` greedy` `*800` | Oct/03/2022 23:43 | 
 6 | [A. Nastia and Nearly Good Numbers](https://codeforces.com/contest/1520/problem/A) | [GNU C++17 (64)](./Codeforces/A/A_Phoenix_and_Gold.cpp) | `constructive algorithms` ` number theory` `*1000` | Oct/02/2022 23:58 | 
