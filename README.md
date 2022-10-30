@@ -15,6 +15,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+16 | [A - Pretty Permutations](https://codeforces.com/contest/1541/problem/A) | [GNU C++17 (64)](./Codeforces/A/A_Pretty_Permutations.cpp) | `constructive algorithms` `*800`  `brute force` | Oct/30/2022 23:56 |
 15 | [A - Omkar and Bad Story](https://codeforces.com/contest/1536/problem/A) | [GNU C++17 (64)](./Codeforces/A/A_OmlarAndStory.cpp) | `constructive algorithms` `*800`  `brute force` | Oct/30/2022 12:02 |
 14 | [A. Eshag Loves Big Arrays](https://codeforces.com/contest/1529/problem/A) | [GNU C++17 (64)](./Codeforces/A/A_Eshag_Loves_Big_Arrays.cpp) | `constructive algorithms` `*800` | Oct/30/2022 07:44 |
 13 | [A - Game of Life](https://codeforces.com/contest/1523/problem/A) | [GNU C++17 (64)](./Codeforces/A/A_GameOfLife.cpp) | `implementation` `*800` | Oct/30/2022 07:09 | 
