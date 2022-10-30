@@ -15,7 +15,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-15 | [A - Omkar and Bad Story](https://codeforces.com/contest/1536/problem/A) | [GNU C++17 (64)](./Codeforces/A/A_OmlarAndStory.cpp | `constructive algorithms` `*800`  `brute force` | Oct/30/2022 12:02 |
+15 | [A - Omkar and Bad Story](https://codeforces.com/contest/1536/problem/A) | [GNU C++17 (64)](./Codeforces/A/A_OmlarAndStory.cpp) | `constructive algorithms` `*800`  `brute force` | Oct/30/2022 12:02 |
 14 | [A. Eshag Loves Big Arrays](https://codeforces.com/contest/1529/problem/A) | [GNU C++17 (64)](./Codeforces/A/A_Eshag_Loves_Big_Arrays.cpp) | `constructive algorithms` `*800` | Oct/30/2022 07:44 |
 13 | [A - Game of Life](https://codeforces.com/contest/1523/problem/A) | [GNU C++17 (64)](./Codeforces/A/A_GameOfLife.cpp) | `implementation` `*800` | Oct/30/2022 07:09 | 
 12 | [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [GNU C++17 (64)](./LeetCode/Medium/7_Reverse_Integer.cpp) | `math` | Oct/08/2022 20:31 | 
