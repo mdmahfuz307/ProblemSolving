@@ -21,7 +21,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 10 | [A. Arithmetic Array](https://codeforces.com/contest/1537/problem/A) | [GNU C++17 (64)](./Codeforces/A/A_Phoenix_and_Gold.cpp) | `math` ` greedy` `*800` | Oct/07/2022 20:54 | 
 9 | [A. Odd Set](https://codeforces.com/contest/1542/problem/A) | [GNU C++17 (64)](./Codeforces/A/A_Phoenix_and_Gold.cpp) | `math` `*800` | Oct/05/2022 23:53 | 
 8 | [A. Fair Playoff](https://codeforces.com/contest/1535/problem/A) | [GNU C++17 (64)](./Codeforces/A/A_Phoenix_and_Gold.cpp) | `math` ` greedy` `*800` | Oct/04/2022 23:52 | 
-7 | [A. Mean Inequality](https://codeforces.com/contest/1520/problem/A) | [GNU C++17 (64)](./Codeforces/A/A_Phoenix_and_Gold.cpp) | `math` ` greedy` `*800` | Oct/03/2022 23:43 | 
+7 | [A. Mean Inequality](https://codeforces.com/contest/1520/problem/A) | [GNU C++17 (64)](./Codeforces/A/A_Mean_Inequality.cpp) | `math` ` greedy` `*800` | Oct/03/2022 23:43 | 
 6 | [A. Nastia and Nearly Good Numbers](https://codeforces.com/contest/1520/problem/A) | [GNU C++17 (64)](./Codeforces/A/A_Phoenix_and_Gold.cpp) | `constructive algorithms` ` number theory` `*1000` | Oct/02/2022 23:58 | 
 5 | [A. Do Not Be Distracted!](https://codeforces.com/contest/1520/problem/A) | [GNU C++17 (64)](./Codeforces/A/A_Do_Not_Be_Distracted.cpp) | `brute force` ` implementation` `*800` | Oct/01/2022 23:51 | 
 4 | [A. Perfectly Imperfect Array](https://codeforces.com/problemset/problem/1514/A) | [GNU C++17 (64)](./Codeforces/A/Perfectly_Imperfect_Array.cpp) | `math` ` greedy` `*800` | Sep/30/2022 22:58 | 
