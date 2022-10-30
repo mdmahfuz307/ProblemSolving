@@ -17,7 +17,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 |---| ----- | -------- | ---- | --------- |
 13 | [A - Game of Life](https://codeforces.com/contest/1523/problem/A) | [GNU C++17 (64)](./Codeforces/A/A_GameOfLife.cpp) | `implementation` `*800` | Oct/30/2022 07:09 | 
 12 | [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [GNU C++17 (64)](./LeetCode/Medium/7_Reverse_Integer.cpp) | `math` | Oct/08/2022 20:31 | 
-11 | [A. Team](https://codeforces.com/contest/231/problem/A) | [GNU C++17 (64)](./Codeforces/A/A_Phoenix_and_Gold.cpp) | `brute force` ` greedy` `*800` | Oct/08/2022 20:31 | 
+11 | [A. Team](https://codeforces.com/contest/231/problem/A) | [GNU C++17 (64)](./Codeforces/A/A_Team...cpp) | `brute force` ` greedy` `*800` | Oct/08/2022 20:31 | 
 10 | [A. Arithmetic Array](https://codeforces.com/contest/1537/problem/A) | [GNU C++17 (64)](./Codeforces/A/A_Arithmetic_Array.cpp) | `math` ` greedy` `*800` | Oct/07/2022 20:54 | 
 9 | [A. Odd Set](https://codeforces.com/contest/1542/problem/A) | [GNU C++17 (64)](./Codeforces/A/A_Odd_Set.cpp) | `math` `*800` | Oct/05/2022 23:53 | 
 8 | [A. Fair Playoff](https://codeforces.com/contest/1535/problem/A) | [GNU C++17 (64)](./Codeforces/A/A_Fair_Playoff.cpp) | `math` ` greedy` `*800` | Oct/04/2022 23:52 | 
