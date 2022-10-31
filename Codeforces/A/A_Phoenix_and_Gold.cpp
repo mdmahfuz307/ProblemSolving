@@ -6,27 +6,41 @@ int main()
     cin >> t;
     while (t--)
     {
-        int n;
-        cin >> n;
-        string s;
-        cin >> s;
-        int ans = 0;
-        map<char, int> mp;
-        for (int i = 0; i < s.size(); i++)
+        int n, d;
+        cin >> n >> d;
+        int sum = 0;
+        int x;
+        vector<int> v;
+        for (int i = 0; i < n; i++)
         {
-            mp[s[i]]++;
-            char z = s[i];
-            while (s[i] == z)
-            {
-                i++;
-            }
-            i--;
-            if (mp[z] > 1)
-                ans = 1;
+            cin >> x;
+            v.push_back(x);
+            sum += x;
         }
-        if (ans == 1)
+        if (sum == d)
             cout << "NO" << endl;
         else
+        {
             cout << "YES" << endl;
+            int cnt = 0;
+            int sum = 0;
+            while (cnt != n)
+            {
+                int ans = v[0];
+                v.erase(v.begin());
+                if (sum + ans == d)
+                {
+                    v.push_back(ans);
+                }
+                else
+                {
+                    cout << ans << " ";
+                    sum += ans;
+                    cnt++;
+                }
+            }
+            cout << endl;
+        }
     }
+    return 0;
 }
