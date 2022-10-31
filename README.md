@@ -15,6 +15,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+16 | [A - Phoenix and Gold](https://codeforces.com/contest/1541/problem/A) | [GNU C++17 (64)](./Codeforces/A/A_Phoenix_and_Gold.cpp) | `constructive algorithms` `*800`  `greedy` `math` | Oct/31/2022 23:06 |
 16 | [A - Pretty Permutations](https://codeforces.com/contest/1541/problem/A) | [GNU C++17 (64)](./Codeforces/A/A_Pretty_Permutations.cpp) | `constructive algorithms` `*800`  `implementation` | Oct/30/2022 23:56 |
 15 | [A - Omkar and Bad Story](https://codeforces.com/contest/1536/problem/A) | [GNU C++17 (64)](./Codeforces/A/A_OmlarAndStory.cpp) | `constructive algorithms` `*800`  `greedy` | Oct/30/2022 12:02 |
 14 | [A. Eshag Loves Big Arrays](https://codeforces.com/contest/1529/problem/A) | [GNU C++17 (64)](./Codeforces/A/A_Eshag_Loves_Big_Arrays.cpp) | `constructive algorithms` `*800` | Oct/30/2022 07:44 |
