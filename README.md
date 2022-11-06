@@ -15,8 +15,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-21 | [First and Last Digit](https://www.codechef.com/LP0TO101/problems/FLOW004
-) | [GNU C++17 (64)](./CodeChef/Rating_Based/First_Last_Digit.cpp) | `686` | Nov/5/2022 11:07 |
+21 | [First and Last Digit](https://www.codechef.com/LP0TO101/problems/FLOW004) | [GNU C++17 (64)](./CodeChef/Rating_Based/First_Last_Digit.cpp) | `686` | Nov/5/2022 11:07 |
 20 | [Valid Triangles](https://www.codechef.com/LP0TO101/problems/FLOW013) | [GNU C++17 (64)](./CodeChef/Rating_Based/Valid_Triangles.cpp) | `686` | Nov/4/2022 02:11 |
 19 | [Lucky Four](https://www.codechef.com/LP0TO101/problems/LUCKFOUR) | [GNU C++17 (64)](./CodeChef/Rating_Based/Lucky_Four.cpp) | `686` | Nov/4/2022 01:48 |
 18 | [X Jumps](https://www.codechef.com/submit/XJUMP?tab=statement) | [GNU C++17 (64)](./CodeChef/Basic_Programming/X_Jumps.cpp) | `686` | Nov/3/2022 22:40 |
