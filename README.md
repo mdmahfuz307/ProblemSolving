@@ -15,6 +15,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+27 | [Enormous Input Test](https://www.codechef.com/LP0TO101/problems/INTEST) | [GNU C++17 (64)](./CodeChef/Rating_Based/INTEST.cpp) | `686` | Nov/7/2022 11:33 |
 26 | [ATM](https://www.codechef.com/LP0TO101/problems/HS08TEST) | [GNU C++17 (64)](./CodeChef/Rating_Based/HS08TEST.cpp) | `686` | Nov/7/2022 11:33 |
 25 | [Reverse The Number](https://www.codechef.com/LP0TO101/problems/FLOW007) | [GNU C++17 (64)](./CodeChef/Rating_Based/FLOW007.cpp) | `686` | Nov/7/2022 11:21 |
 24 | [Sum of Digits](https://www.codechef.com/LP0TO101/problems/FLOW006) | [GNU C++17 (64)](./CodeChef/Rating_Based/FLOW006.cpp) | `686` | Nov/7/2022 10:58 |
