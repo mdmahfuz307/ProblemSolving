@@ -15,6 +15,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+23 | [Chef And Operators](https://www.codechef.com/LP0TO101/problems/CHOPRT) | [GNU C++17 (64)](./CodeChef/Rating_Based/Chef_And_Operators.cpp) | `686` | Nov/7/2022 10:58 |
 22 | [Id and Ship](https://www.codechef.com/LP0TO101/problems/FLOW010) | [GNU C++17 (64)](./CodeChef/Rating_Based/Id_and_Ship.cpp) | `686` | Nov/6/2022 11:27 |
 21 | [First and Last Digit](https://www.codechef.com/LP0TO101/problems/FLOW004) | [GNU C++17 (64)](./CodeChef/Rating_Based/First_Last_Digit.cpp) | `686` | Nov/5/2022 11:03 |
 20 | [Valid Triangles](https://www.codechef.com/LP0TO101/problems/FLOW013) | [GNU C++17 (64)](./CodeChef/Rating_Based/Valid_Triangles.cpp) | `686` | Nov/4/2022 02:11 |
