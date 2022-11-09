@@ -15,6 +15,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+31 | [Vaccine Dates](https://www.codechef.com/LP1TO201/problems/VDATES?tab=statement) | [GNU C++17 (64)](./CodeChef/Basic_Programming/VDATES.cpp) | `math`| Nov/09/2022 09:04 |
 30 | [A. Exciting Bets](https://codeforces.com/contest/1543/problem/A) | [GNU C++17 (64)](./Codeforces/A/A_Exciting_Bets.cpp) | `math`  `number theory ` `900` `greedy`| Nov/08/2022 23:54 |
 29 | [Richie Rich](https://www.codechef.com/LP1TO201/problems/CHFRICH) | [GNU C++17 (64)](./CodeChef/Basic_Programming/CHFRICH.cpp) | `math`| Nov/08/2022 12:54 |
 28 | [A. Odd Divisor](https://codeforces.com/problemset/problem/1475/A) | [GNU C++17 (64)](./Codeforces/A/A_Odd_Divisor.cpp) | `math`  `number theory ` `900`| Nov/07/2022 23:49 |
