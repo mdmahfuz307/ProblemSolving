@@ -15,7 +15,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-31 | [The Two Dishes](https://www.codechef.com/LP1TO201/problems/MAX_DIFF) | [GNU C++17 (64)](./CodeChef/Basic_Programming/MAX_DIFF.cpp) | `math`| Nov/09/2022 09:27 |
+32 | [The Two Dishes](https://www.codechef.com/LP1TO201/problems/MAX_DIFF) | [GNU C++17 (64)](./CodeChef/Basic_Programming/MAX_DIFF.cpp) | `math`| Nov/09/2022 09:27 |
 31 | [Vaccine Dates](https://www.codechef.com/LP1TO201/problems/VDATES?tab=statement) | [GNU C++17 (64)](./CodeChef/Basic_Programming/VDATES.cpp) | `math`| Nov/09/2022 09:04 |
 30 | [A. Exciting Bets](https://codeforces.com/contest/1543/problem/A) | [GNU C++17 (64)](./Codeforces/A/A_Exciting_Bets.cpp) | `math`  `number theory ` `900` `greedy`| Nov/08/2022 23:54 |
 29 | [Richie Rich](https://www.codechef.com/LP1TO201/problems/CHFRICH) | [GNU C++17 (64)](./CodeChef/Basic_Programming/CHFRICH.cpp) | `math`| Nov/08/2022 12:54 |
