@@ -15,6 +15,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+35 | [A - And Then There Were K](https://codeforces.com/contest/1527/problem/A) | [GNU C++17 (64)](./Codeforces/A/A _And_Then_There_Were_K.cpp) | `800`  `bitmasks`| Nov/10/2022 23:42 |
 34 | [A. Shortest Path with Obstacle](https://codeforces.com/contest/1547/problem/A) | [GNU C++17 (64)](./Codeforces/A/A_Shortest_Path_with_Obstacle.cpp) | `math`  `implementation ` `900`| Nov/09/2022 23:31 |
 33 | [Hoop Jump](https://www.codechef.com/LP1TO201/problems/HOOPS?tab=statement) | [GNU C++17 (64)](./CodeChef/Basic_Programming/HOOPS.cpp) | `math`| Nov/09/2022 09:47 |
 32 | [The Two Dishes](https://www.codechef.com/LP1TO201/problems/MAX_DIFF) | [GNU C++17 (64)](./CodeChef/Basic_Programming/MAX_DIFF.cpp) | `math`| Nov/09/2022 09:27 |
