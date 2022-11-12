@@ -15,6 +15,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+42 | [Smallest Possible Whole Number](https://www.codechef.com/LP1TO201/problems/SMOL) | [GNU C++17 (64)](./CodeChef/Basic_Programming/SMOL.cpp) | `math` | Nov/12/2022 09:25 |
 41 | [Chef and Spells](https://www.codechef.com/LP1TO201/problems/CHFSPL) | [GNU C++17 (64)](./CodeChef/Basic_Programming/CHFSPL.cpp) | `math` | Nov/12/2022 08:46 |
 40 | [Problem Category](https://www.codechef.com/LP1TO201/problems/PROBCAT) | [GNU C++17 (64)](./CodeChef/Basic_Programming/PROBCAT.cpp) | `math` | Nov/12/2022 08:17 |
 39 | [263A - Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) | [GNU C++17 (64)](./Codeforces/A/263A_Beautiful_Matrix.cpp) | `math`| Nov/11/2022 23:50 |
