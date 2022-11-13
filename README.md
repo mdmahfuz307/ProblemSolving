@@ -15,6 +15,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+45 | [Turn It](https://www.codechef.com/LP1TO201/problems/NFS) | [GNU C++17 (64)](./CodeChef/Basic_Programming/NFS.cpp) | `math`| Nov/13/2022 10:34am |
 44 | [Weight Balance](https://www.codechef.com/LP1TO201/problems/WEIGHTBL) | [GNU C++17 (64)](./CodeChef/Basic_Programming/WEIGHTBL.cpp) | `math`| Nov/13/2022 10:15am |
 43 | [A. Petya and Strings](https://codeforces.com/problemset/problem/112/A) | [GNU C++17 (64)](./Codeforces/A/A_PetyaAndStrings.cpp) | `math`| Nov/12/2022 21:40 |
 42 | [Smallest Possible Whole Number](https://www.codechef.com/LP1TO201/problems/SMOL) | [GNU C++17 (64)](./CodeChef/Basic_Programming/SMOL.cpp) | `math` | Nov/12/2022 09:25 |
