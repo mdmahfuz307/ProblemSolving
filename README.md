@@ -15,6 +15,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+47 | [231_Power of Two](https://leetcode.com/problems/power-of-two/submissions/842645655/) | [GNU C++17 (64)](./LeetCode/Easy/231_Power_of_Two.cpp) | `math`| Nov/13/2022 07:26 |
 46 | [Chef and Stock Prices](https://www.codechef.com/LP1TO201/problems/CSTOCK?tab=statement) | [GNU C++17 (64)](./CodeChef/Basic_Programming/CSTOCK.cpp) | `math`| Nov/13/2022 10:55am |
 45 | [Turn It](https://www.codechef.com/LP1TO201/problems/NFS) | [GNU C++17 (64)](./CodeChef/Basic_Programming/NFS.cpp) | `math`| Nov/13/2022 10:34am |
 44 | [Weight Balance](https://www.codechef.com/LP1TO201/problems/WEIGHTBL) | [GNU C++17 (64)](./CodeChef/Basic_Programming/WEIGHTBL.cpp) | `math`| Nov/13/2022 10:15am |
