@@ -15,6 +15,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+50 | [Tom And Jerry 1](https://www.codechef.com/LP1TO201/problems/TANDJ1) | [GNU C++17 (64)](./CodeChef/Basic_Programming/TANDJ1.cpp) | `math` | Nov/11/2022 08:58 |
 49 | [Two Dishes](https://www.codechef.com/LP1TO201/problems/TWODISH) | [GNU C++17 (64)](./CodeChef/Basic_Programming/TWODISH.cpp) | `math` | Nov/11/2022 08:35 |
 48 | [A. Stones on the Table](https://codeforces.com/problemset/problem/266/A) | [GNU C++17 (64)](./Codeforces/A/266A_Stones_on_the_Table.cpp) | `strings`| Nov/13/2022 23:47 |
 47 | [231_Power of Two](https://leetcode.com/problems/power-of-two/submissions/842645655/) | [GNU C++17 (64)](./LeetCode/Easy/231_Power_of_Two.cpp) | `math`| Nov/13/2022 07:26 |
