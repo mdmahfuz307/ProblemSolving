@@ -15,6 +15,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+49 | [A. Stones on the Table](https://www.codechef.com/LP1TO201/problems/TWODISH) | [GNU C++17 (64)](./CodeChef/Basic_Programming/TWODISH.cpp) | `math` | Nov/11/2022 08:35 |
 48 | [A. Stones on the Table](https://codeforces.com/problemset/problem/266/A) | [GNU C++17 (64)](./Codeforces/A/266A_Stones_on_the_Table.cpp) | `strings`| Nov/13/2022 23:47 |
 47 | [231_Power of Two](https://leetcode.com/problems/power-of-two/submissions/842645655/) | [GNU C++17 (64)](./LeetCode/Easy/231_Power_of_Two.cpp) | `math`| Nov/13/2022 07:26 |
 46 | [Chef and Stock Prices](https://www.codechef.com/LP1TO201/problems/CSTOCK?tab=statement) | [GNU C++17 (64)](./CodeChef/Basic_Programming/CSTOCK.cpp) | `math`| Nov/13/2022 10:55am |
