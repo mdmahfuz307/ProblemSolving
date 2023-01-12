@@ -15,6 +15,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+54 | [Cherry](https://codeforces.com/contest/1554/my) | [GNU C++17 (64)](./Codeforces/A/1554.cpp) | `math` | Jan/12/2023 21:24 |
 53| [Subsequence Permutation](https://codeforces.com/contest/1552/my) | [GNU C++17 (64)](./Codeforces/A/1552.cpp) | `math` | Jan/12/2022 09:17 |
 52 | [Broken Keyboard](https://codeforces.com/contest/1251/problem/A) | [GNU C++17 (64)](./Codeforces/A/1251.cpp) | `math` | Jan/11/2022 08:02 |
 51 | [Polycarp and Coins](https://codeforces.com/contest/1551/problem/A) | [GNU C++17 (64)](.Codeforces/A/A_1551.cpp) | `math` | Jan/11/2022 10:58 |
