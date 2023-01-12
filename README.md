@@ -15,6 +15,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+52 | [Tom And Jerry 1](https://codeforces.com/contest/1251/problem/A) | [GNU C++17 (64)](./Codeforces/A/1251.cpp) | `math` | Jan/11/2022 08:02 |
+51 | [Tom And Jerry 1](https://codeforces.com/contest/1551/problem/A) | [GNU C++17 (64)](.Codeforces/A/A_1551.cpp) | `math` | Jan/11/2022 10:58 |
 50 | [Tom And Jerry 1](https://www.codechef.com/LP1TO201/problems/TANDJ1) | [GNU C++17 (64)](./CodeChef/Basic_Programming/TANDJ1.cpp) | `math` | Nov/11/2022 08:58 |
 49 | [Two Dishes](https://www.codechef.com/LP1TO201/problems/TWODISH) | [GNU C++17 (64)](./CodeChef/Basic_Programming/TWODISH.cpp) | `math` | Nov/11/2022 08:35 |
 48 | [A. Stones on the Table](https://codeforces.com/problemset/problem/266/A) | [GNU C++17 (64)](./Codeforces/A/266A_Stones_on_the_Table.cpp) | `strings`| Nov/13/2022 23:47 |
