@@ -15,6 +15,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+59 | [Helpful Maths](https://codeforces.com/problemset/problem/339/A) | [GNU C++17 (64)](./Codeforces/A/339A.cpp) | `strings` ` *800`  | Jan/13/2023 16:55 |
 58 | [Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | [GNU C++17 (64)](./Codeforces/A/71A.cpp) | `strings` ` *800`  | Jan/13/2023 16:11 |
 57 | [String Task](https://codeforces.com/problemset/problem/118/A) | [GNU C++17 (64)](./Codeforces/A/118A.cpp) | `strings` ` *800` ` implementation` | Jan/13/2023 15:59 |
 56 | [Word Capitalization](https://codeforces.com/problemset/problem/281/A) | [GNU C++17 (64)](./Codeforces/A/281A.cpp) | `strings` ` *800` ` implementation` | Jan/13/2023 15:35 |
