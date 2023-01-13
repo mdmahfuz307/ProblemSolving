@@ -15,6 +15,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+56 | [Word Capitalization](https://codeforces.com/problemset/problem/281/A) | [GNU C++17 (64)](./Codeforces/A/281A.cpp) | `strings` ` *800` ` implementation` | Jan/13/2023 15:35 |
 55 | [PizzaForces](https://codeforces.com/contest/1555/problem/A) | [GNU C++17 (64)](./Codeforces/A/1555.cpp) | `math` | Jan/12/2023 22:06 |
 54 | [Cherry](https://codeforces.com/contest/1554/my) | [GNU C++17 (64)](./Codeforces/A/1554.cpp) | `math` | Jan/12/2023 21:24 |
 53| [Subsequence Permutation](https://codeforces.com/contest/1552/my) | [GNU C++17 (64)](./Codeforces/A/1552.cpp) | `math` | Jan/12/2022 09:17 |
