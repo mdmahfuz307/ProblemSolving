@@ -15,6 +15,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+60 | [Bear and Big Brother](https://codeforces.com/problemset/problem/791/A) | [GNU C++17 (64)](./Codeforces/A/791A.cpp) | `implementation` ` *800`  | Jan/14/2023 21:30 |
 59 | [Helpful Maths](https://codeforces.com/problemset/problem/339/A) | [GNU C++17 (64)](./Codeforces/A/339A.cpp) | `strings` ` *800`  | Jan/13/2023 16:55 |
 58 | [Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | [GNU C++17 (64)](./Codeforces/A/71A.cpp) | `strings` ` *800`  | Jan/13/2023 16:11 |
 57 | [String Task](https://codeforces.com/problemset/problem/118/A) | [GNU C++17 (64)](./Codeforces/A/118A.cpp) | `strings` ` *800` ` implementation` | Jan/13/2023 15:59 |
