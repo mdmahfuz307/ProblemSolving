@@ -15,6 +15,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+61 | [Soldier and Bananas](https://codeforces.com/problemset/problem/546/A) | [GNU C++17 (64)](./Codeforces/A/546A.cpp) | `implementation` ` *800`  | Jan/14/2023 21:49 |
 60 | [Bear and Big Brother](https://codeforces.com/problemset/problem/791/A) | [GNU C++17 (64)](./Codeforces/A/791A.cpp) | `implementation` ` *800`  | Jan/14/2023 21:30 |
 59 | [Helpful Maths](https://codeforces.com/problemset/problem/339/A) | [GNU C++17 (64)](./Codeforces/A/339A.cpp) | `strings` ` *800`  | Jan/13/2023 16:55 |
 58 | [Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | [GNU C++17 (64)](./Codeforces/A/71A.cpp) | `strings` ` *800`  | Jan/13/2023 16:11 |
