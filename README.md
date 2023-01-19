@@ -15,6 +15,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+67 | [Word](https://codeforces.com/problemset/problem/69/A) | [GNU C++17 (64)](./Codeforces/A/59A.cpp) | `implementation` ` *800` ` *strings`  | Jan/19/2023 22:00 |
 66 | [Young Physicist](https://codeforces.com/problemset/problem/69/A) | [GNU C++17 (64)](./Codeforces/A/69A.cpp) | `implementation` ` *800`  | Jan/19/2023 21:22 |
 65 | [Consecutive Sum Riddle](https://codeforces.com/contest/1594/problem/A) | [GNU C++17 (64)](./Codeforces/A/747.cpp) | `implementation` ` *800`  | Jan/16/2023 23:36 |
 64 | [AB Balance](https://codeforces.com/contest/1606/problem/A) | [GNU C++17 (64)](./Codeforces/A/116.cpp) | `implementation` ` *800`  | Jan/18/2023 23:43 |
