@@ -17,7 +17,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 |---| ----- | -------- | ---- | --------- |
 64 | [Consecutive Sum Riddle](https://codeforces.com/contest/1594/problem/A) | [GNU C++17 (64)](./Codeforces/A/747.cpp) | `implementation` ` *800`  | Jan/16/2023 23:36 |
 64 | [AB Balance](https://codeforces.com/contest/1606/problem/A) | [GNU C++17 (64)](./Codeforces/A/116.cpp) | `implementation` ` *800`  | Jan/18/2023 23:43 |
-63 | [Casimir's String Solitaire](https://codeforces.com/contest/1579/problem/A) | [GNU C++17 (64)](./Codeforces/A/747.cpp) | `implementation` ` *800`  | Jan/18/2023 23:43 |
+63 | [Casimir's String Solitaire](https://codeforces.com/contest/1579/problem/A) | [GNU C++17 (64)](./Codeforces/A/744.cpp) | `implementation` ` *800`  | Jan/17/2023 23:24 |
 62 | [Elephant](https://codeforces.com/problemset/problem/617/A) | [GNU C++17 (64)](./Codeforces/A/617A.cpp) | `implementation` ` *800`  | Jan/15/2023 21:46 |
 61 | [Soldier and Bananas](https://codeforces.com/problemset/problem/546/A) | [GNU C++17 (64)](./Codeforces/A/546A.cpp) | `implementation` ` *800`  | Jan/14/2023 21:49 |
 60 | [Bear and Big Brother](https://codeforces.com/problemset/problem/791/A) | [GNU C++17 (64)](./Codeforces/A/791A.cpp) | `implementation` ` *800`  | Jan/14/2023 21:30 |
