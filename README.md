@@ -15,6 +15,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+69 | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | [GNU C++17 (64)](./Codeforces/A/84_R.cpp) | `implementation` ` *800` ` *strings`   | Jan/22/2023 00:00 |
 68 | [Arrays Introduction](https://www.hackerrank.com/challenges/arrays-introduction/problem?isFullScreen=true) | [GNU G++20 (64)](./HackerRank/cpp/Introduction/reverse_array.cpp) | `array` ` *math` ` *strings`   | Jan/21/2023 14:00 |
 67 | [Word](https://codeforces.com/problemset/problem/69/A) | [GNU C++17 (64)](./Codeforces/A/59A.cpp) | `implementation` ` *800` ` *strings`  | Jan/19/2023 22:00 |
 66 | [Young Physicist](https://codeforces.com/problemset/problem/69/A) | [GNU C++17 (64)](./Codeforces/A/69A.cpp) | `implementation` ` *800`  | Jan/19/2023 21:22 |
