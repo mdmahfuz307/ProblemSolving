@@ -15,6 +15,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+73 | [Queue at the School](https://codeforces.com/problemset/problem/266/B) | [GNU C++20 (64)](./Codeforces/A/266B.cpp) | `implementation` ` *800` ` *strings`   | Jan/25/2023 23:13 |
 72 | [Anton and Danik](https://codeforces.com/problemset/problem/734/A) | [GNU C 11 (64)](./Codeforces/A/734A.c) | `implementation` ` *800` ` *strings`   | Jan/24/2023 20:29 |
 71 | [Tram](https://codeforces.com/contest/116/problem/A) | [GNU C++20 (64)](./Codeforces/A/116A.cpp) | `math` ` *800`   | Jan/24/2023 20:01 |
 70 | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | [GNU C++20 (64)](./Codeforces/A/479_R.cpp) | `implementation` ` *800` ` *strings`   | Jan/21/2023 23:59 |
