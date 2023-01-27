@@ -15,6 +15,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+78 | [I_love_%username%](https://codeforces.com/problemset/problem/155/A) | [GNU C++20 (64)](./Codeforces/A/155A.cpp) | `implementation` ` *800` ` *strings`   | Jan/27/2023 22:56 |
 77 | [Borze](https://codeforces.com/problemset/problem/32/B) | [GNU C++20 (64)](./Codeforces/B/32B.cpp) | `implementation` ` *800` ` *strings`   | Jan/27/2023 22:12 |
 76 | [ Again Twenty Five!](https://codeforces.com/problemset/problem/630/A) | [GNU C++20 (64)](./Codeforces/A/630A.cpp) | `implementation` ` *800` ` *strings`   | Jan/27/2023 21:55 |
 75 | [Drinks](https://codeforces.com/problemset/problem/200/B) | [GNU C++20 (64)](./Codeforces/A/200B.cpp) | `implementation` ` *800` ` *strings`   | Jan/26/2023 21:40 |
