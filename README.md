@@ -15,6 +15,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+81 | [Yet Another Two Integers Problem](https://codeforces.com/problemset/status?my=on) | [GNU C++20 (64)](./Codeforces/A/1409A.cpp) | `implementation` ` *800` ` *strings`   | Jan/28/2023 23:55 |
 80 | [Soft Drinking](https://codeforces.com/problemset/problem/151/A) | [GNU C++20 (64)](./Codeforces/A/151A.cpp) | `implementation` ` *800` ` *strings`   | Jan/28/2023 23:41 |
 79 | [Design Tutorial: Learn from Math](https://codeforces.com/problemset/problem/472/A) | [GNU C++20 (64)](./Codeforces/A/472A.cpp) | `implementation` ` *800` ` *strings`   | Jan/28/2023 23:21 |
 78 | [I_love_%username%](https://codeforces.com/problemset/problem/155/A) | [GNU C++20 (64)](./Codeforces/A/155A.cpp) | `implementation` ` *800` ` *strings`   | Jan/27/2023 22:56 |
