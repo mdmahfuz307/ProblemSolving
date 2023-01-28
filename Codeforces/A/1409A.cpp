@@ -1,4 +1,4 @@
-// Bismillahir Rahmanir Rahim
+// Yet Another Two Integers Problem
 #include <bits/stdc++.h>
 #define ll long long
 #define ull unsigned long long
