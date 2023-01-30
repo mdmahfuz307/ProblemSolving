@@ -15,6 +15,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+84 | [A - Die Roll](https://codeforces.com/problemset/problem/9/A) | [GNU C++20 (64)](./Codeforces/A/9A.cpp) | ` *800`   | 	Jan/30/2023 23:09 |
 83 | [A - Cheap Travel](https://codeforces.com/problemset/problem/466/A) | [GNU C++20 (64)](./Codeforces/A/446A.cpp) |  ` *800`  | 	Jan/30/2023 22:54 |
 82 | [A - IQ testm](https://codeforces.com/problemset/problem/25/A) | [GNU C++20 (64)](./Codeforces/A/25A.cpp) | `implementation` ` *800` ` *strings`   | 	Jan/29/2023 23:56 |
 81 | [Yet Another Two Integers Problem](https://codeforces.com/problemset/status?my=on) | [GNU C++20 (64)](./Codeforces/A/1409A.cpp) | `implementation` ` *800` ` *strings`   | Jan/28/2023 23:55 |
