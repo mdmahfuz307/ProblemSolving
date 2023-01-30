@@ -16,7 +16,6 @@ A repository to keep track of problem solving practice, containing solutions fro
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
 85 | [A - Panoramix's Prediction](https://codeforces.com/problemset/problem/80/A) | [GNU C++20 (64)](./Codeforces/A/80A.cpp) | `implementation` ` *800` ` *math`   | 	Jan/30/2023 23:09 |
-
 84 | [A - Die Roll](https://codeforces.com/problemset/problem/9/A) | [GNU C++20 (64)](./Codeforces/A/9A.cpp) | ` *800`   | 	Jan/30/2023 23:09 |
 83 | [A - Cheap Travel](https://codeforces.com/problemset/problem/466/A) | [GNU C++20 (64)](./Codeforces/A/446A.cpp) |  ` *800`  | 	Jan/30/2023 22:54 |
 82 | [A - IQ testm](https://codeforces.com/problemset/problem/25/A) | [GNU C++20 (64)](./Codeforces/A/25A.cpp) | `implementation` ` *800` ` *strings`   | 	Jan/29/2023 23:56 |
