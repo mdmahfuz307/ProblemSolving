@@ -15,6 +15,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+87 | [A - Casimir's String Solitaire](https://codeforces.com/contest/1579/problem/A) | [GNU C++20 (64)](./Codeforces/Div_3/744A.cpp) | `implementation` ` *800` ` *strings`   | 		Jan/31/2023 22:44 |
 86 | [A - CQXYM Count Permutations](https://codeforces.com/contest/1581/problem/A) | [GNU C++20 (64)](./Codeforces/Div_2/745A.cpp) | `implementation` ` *800` ` *strings`   | 	Jan/30/2023 23:09 |
 85 | [A - Panoramix's Prediction](https://codeforces.com/problemset/problem/80/A) | [GNU C++20 (64)](./Codeforces/A/80A.cpp) | `implementation` ` *800` ` *math`   | 	Jan/30/2023 23:09 |
 84 | [A - Die Roll](https://codeforces.com/problemset/problem/9/A) | [GNU C++20 (64)](./Codeforces/A/9A.cpp) | ` *800`   | 	Jan/30/2023 23:09 |
