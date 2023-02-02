@@ -15,6 +15,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+96 | [
+A - New Year Transportation](https://codeforces.com/contest/1665/problem/B) | [GNU C++20 (64)](./Codeforces/A/500A.cpp) | `implementation` ` *800` ` *strings`   | 	Feb/02/2023 23:40 |
+95 | [A - Games](https://codeforces.com/problemset/problem/268/A) | [GNU C++20 (64)](./Codeforces/A/268A.cpp) | `implementation` ` *800` ` *strings`   | Feb/02/2023 23:33 |
 94 | [A - GCD vs LCM](https://codeforces.com/contest/1665/problem/A) | [GNU C++20 (64)](./Codeforces/Div_2/781A.cpp) | `implementation` ` *800` ` *strings`   | Feb/01/2023 23:05 |
 93 | [B - Array Cloning Technique](https://codeforces.com/contest/1665/problem/B) | [GNU C++20 (64)](./Codeforces/Div_2/781B.cpp) | `implementation` ` *800` ` *strings`   | Feb/01/2023 23:25 |
 92 | [A - Creep](https://codeforces.com/contest/1694/problem/A) | [GNU C++20 (64)](./Codeforces/Div_2/800A.cpp) | `implementation` ` *800` ` *strings`   | Feb/01/2023 23:21 |
