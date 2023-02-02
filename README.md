@@ -15,7 +15,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |\
-91 | [Expected Value](https://www.codechef.com/problems/EXPVALUE) | [GNU C++20 (64)](./CodeChef/Rating_Based/EXPVALUE.cpp) | `implementation` ` *800`   | Feb/01/2023 23:01 |
+91 | [Expected Value](https://www.codechef.com/problems/EXPVALUE) | [GNU C++20 (64)](./CodeChef/Rating_Based/EXPVALUE.cpp) | `implementation` ` *800`   | Feb/02/2023 23:01 |
 90 | [Make Array Odd](https://www.codechef.com/problems/MAKEARRAYODD) | [GNU C++20 (64)](./CodeChef/Rating_Based/MAKEARRAYODD.cpp) | `implementation` ` *800` ` *strings`   | Feb/01/2023 22:01 |
 89 | [Zero String](https://www.codechef.com/problems/ZEROSTRING) | [GNU C++20 (64)](./CodeChef/Rating_Based/ZEROSTRING.cpp) | `implementation` ` *800` ` *strings`   | 	Feb/01/2023 21:31 |
 88 | [A - Hit the Lottery](https://codeforces.com/problemset/problem/996/A) | [GNU C++20 (64)](./Codeforces/A/996A.cpp) | `implementation` ` *800` ` *strings`   | 		Jan/31/2023 22:50 |
