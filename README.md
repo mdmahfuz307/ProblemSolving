@@ -15,6 +15,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+94 | [A - GCD vs LCM](https://codeforces.com/contest/1665/problem/A) | [GNU C++20 (64)](./Codeforces/Div_2/781A.cpp) | `implementation` ` *800` ` *strings`   | Feb/01/2023 23:05 |
+93 | [B - Array Cloning Technique](https://codeforces.com/contest/1665/problem/B) | [GNU C++20 (64)](./Codeforces/Div_2/781B.cpp) | `implementation` ` *800` ` *strings`   | Feb/01/2023 23:25 |
+92 | [A - Creep](https://codeforces.com/contest/1694/problem/A) | [GNU C++20 (64)](./Codeforces/Div_2/800A.cpp) | `implementation` ` *800` ` *strings`   | Feb/01/2023 23:21 |
 91 | [Expected Value](https://www.codechef.com/problems/EXPVALUE) | [GNU C++20 (64)](./CodeChef/Rating_Based/EXPVALUE.cpp) | `implementation` ` *800`   | Feb/01/2023 23:01 |
 90 | [Make Array Odd](https://www.codechef.com/problems/MAKEARRAYODD) | [GNU C++20 (64)](./CodeChef/Rating_Based/MAKEARRAYODD.cpp) | `implementation` ` *800` ` *strings`   | Feb/01/2023 22:01 |
 89 | [Zero String](https://www.codechef.com/problems/ZEROSTRING) | [GNU C++20 (64)](./CodeChef/Rating_Based/ZEROSTRING.cpp) | `implementation` ` *800` ` *strings`   | 	Feb/01/2023 21:31 |
