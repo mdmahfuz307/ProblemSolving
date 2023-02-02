@@ -15,6 +15,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+89 | [Zero String](https://www.codechef.com/problems/ZEROSTRING) | [GNU C++20 (64)](./CodeChef/Rating_Based/ZEROSTRING.cpp) | `implementation` ` *800` ` *strings`   | 	Feb/01/2023 21:31 |
 88 | [A - Hit the Lottery](https://codeforces.com/problemset/problem/996/A) | [GNU C++20 (64)](./Codeforces/A/996A.cpp) | `implementation` ` *800` ` *strings`   | 		Jan/31/2023 22:50 |
 87 | [A - Casimir's String Solitaire](https://codeforces.com/contest/1579/problem/A) | [GNU C++20 (64)](./Codeforces/Div_3/744A.cpp) | `implementation` ` *800` ` *strings`   | 		Jan/31/2023 22:44 |
 86 | [A - CQXYM Count Permutations](https://codeforces.com/contest/1581/problem/A) | [GNU C++20 (64)](./Codeforces/Div_2/745A.cpp) | `implementation` ` *800` ` *strings`   | 	Jan/30/2023 23:09 |
