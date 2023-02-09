@@ -15,6 +15,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+99 | [Codeforces Round #851 (Div. 2)](https://codeforces.com/contest/1788) | [GNU C++20 (64)](./Codeforces/Div_2/1788A.cpp) | `implementation` ` *800` ` *strings`   | Feb/09/2023 21:41 |
 98 | [February Cook-Off 2023 Division 4 (Rated)](https://www.codechef.com/COOK144D?order=desc&sortBy=successful_submissions) | [GNU C++20 (64)](./CodeChef/Rating_Based/Rating_Based_February_Cook_Off_2023_Division_4/) | `implementation` ` *800` ` *strings`   | Feb/03/2023 22:33 |
 97 | [912 - Sort an Array](https://leetcode.com/problems/sort-an-array/) | [GNU C++20 (64)](./LeetCode/Easy/912_Sort_an_Array.cpp) | `implementation` ` *800` ` *strings`   | Feb/03/2023 22:33 |
 96 | [A - New Year Transportation](https://codeforces.com/contest/1665/problem/B) | [GNU C++20 (64)](./Codeforces/A/500A.cpp) | `implementation` ` *800` ` *strings`   | 	Feb/02/2023 23:40 |
