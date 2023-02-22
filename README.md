@@ -15,6 +15,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+102 | [Starters 78 Division 4 (Rated)](https://www.codechef.com/START78D) | [GNU C++20 (64)](./CodeChef/Rating_Based/Rating_Based_February_Cook_Off_2023_Division_4/) | `implementation` ` *800` ` *strings`   | Feb/22/2023 21:17 |
 101 | [Educational Codeforces Round 143 (Rated for Div. 2)](https://codeforces.com/contest/1795) | [GNU C++20 (64)](./Codeforces/Contests/) | `implementation` ` *800` ` *strings`   | Feb/14/2023 20:41 |
 100 | [Starters 77 Division 4 (Rated)](https://www.codechef.com/START77D) | [GNU C++20 (64)](./CodeChef/Rating_Based/Starters_77_Division_4_Rated/) | `implementation` ` *800` ` *strings`   | Feb/15/2023 22:11 |
 99 | [Codeforces Round #851 (Div. 2)](https://codeforces.com/contest/1788) | [GNU C++20 (64)](./Codeforces/Div_2/1788A.cpp) | `implementation` ` *800` ` *strings`   | Feb/09/2023 21:41 |
