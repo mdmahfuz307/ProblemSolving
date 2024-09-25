@@ -16,8 +16,10 @@ typedef unsigned long long ull;
 #define MOD 1000000007
 #define maximum INT_MAX
 #define sqr(a) ((a) * (a))
+#define ha cout<<"YES"<<endl;
+#define na cout<<"NO"<<endl;
 #define all(n) (n).begin(), (n).end()
-#define rall(a) (a).rbegin(), (a).rend()
+#define rall(a) (a).rbegin(),(a).rend()
 #define mas(n) for (int i = 0; i < n; i++)
 #define nir(arr) {for (auto & x: arr) cin >>x;}
 #define PI 3.1415926535897932384626433832795028841971
@@ -27,29 +29,34 @@ typedef unsigned long long ull;
 #define max4(a, b, c, d) max(d, max(c, max(a, b)))
 #define min4(a, b, c, d) min(d, min(c, min(a, b)))
 
-const ll mx = 1e5 + 123;
-ll ar[mx];
-
-ll gcd(ll a, ll b)
-{
-    return __gcd(a, b);
+bool isArithProgr(int X, int Y, int Z) {
+    return (Y - X == Z - Y);
 }
-ll lcm(ll a, ll b) { return a * (b / gcd(a, b)); }
 
-mt19937 rng(chrono::high_resolution_clock::now().time_since_epoch().count());
+int minimumOp(int X, int Y, int Z) {
+    if (isArithProgr(X, Y, Z)) {
+        return 0; 
+    }
 
-int main()
-{
-    ios_base ::sync_with_stdio(false);
-    cin.tie(NULL);
+    if (isArithProgr(X, Y, 2 * Y - X)) {
+        return 1; 
+    }
+    if (isArithProgr(2 * Y - Z, Y, Z)) {
+        return 1; 
+    }
+    if (isArithProgr(X, 2 * Y - (Z - X), Z)) {
+        return 1;
+    }
+    return 2; 
+}
 
-    
+int main() {
+    int Ti;
+    cin >> Ti;
 
-    /* ll n;
-    cin >> n;
-    vector<int> v(n);
-    for(auto &x : v)
-    cin >> x;
-*/
-    return 0;
+    while (Ti--) {
+        int X, Y, Z;
+        cin >> X >> Y >> Z;
+        cout << minimumOp(X, Y, Z) << endl;
+    }
 }
