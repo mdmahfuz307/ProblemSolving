@@ -42,24 +42,28 @@ ll ar[mx];
 
 void solve()
 {
-    int ni, k;
-        cin >> ni >> k;
-
-        int ns = 0;
-
-        if(k == 1)
-        {
-            cout<<ni<<endl;
-        }else {
-        while (ni > 0) {
-            ns = ns + ni % k;
-            ni = ni/ k;
-            }
-            cout << ns << endl;
+    int N, K;
+        cin >> N >> K;
+        
+        v swe(N);
+        
+        mas(N) {
+            cin >> swe[i];
         }
-
-    
-
+        
+        int totalCal = 0;
+        int sweets = 0;
+        
+        mas(N) {
+            if (totalCal + swe[i] <= K) {
+                totalCal += swe[i];
+                ++sweets;
+            } else {
+                break; 
+            }
+        }
+        
+        cout << sweets << endl;
 
 
     // vector<int>ai(b);
