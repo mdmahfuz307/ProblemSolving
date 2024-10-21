@@ -39,26 +39,33 @@ mt19937 rng(chrono::high_resolution_clock::now().time_since_epoch().count());
 
 const ll mx = 1e5 + 123;
 ll ar[mx];
-
+const int N=2e5+5;
 void solve()
 {
-    int ni, k;
-        cin >> ni >> k;
+    long long int a,b,c,d,e,i,j;
 
-        int ns = 0;
+    cin>>e;
+    long long int ar[N];
+    cin>>a>>b;
 
-        if(k == 1)
+    for(i=1;i<=a;i++)
+    {
+        cin>>ar[i];
+    }
+    sort(ar+1,ar+a+1);
+    long long m=0,n=0;
+    for(i=1;i<=a;i++)
+    {
+        if(m+(a-i+1)*(ar[i]-ar[i-1])>=b)
         {
-            cout<<ni<<endl;
-        }else {
-            while (ni > 0) {
-            ns = ns + ni % k;
-            ni = ni/ k;
-            }
-            cout << ns << endl;
+            n+=(b-m);
+            break;
         }
+        n+=(a-i+1)*(ar[i]-ar[i-1])+1;
+        m+=(a-i+1)*(ar[i]-ar[i-1]);
 
-    
+    }
+    cout<<n<<endl;
 
 
 

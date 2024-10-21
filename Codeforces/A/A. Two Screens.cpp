@@ -43,18 +43,18 @@ void solve()
         cin>>ar[i];
     }
 
-    ll suWeal = ar[n-1];
-    ll pos = n;
+    ll suWea = ar[n-1];
+    ll posi = n;
 
     for(int i = n-2;i >= 0;i--){
-        if(ar[i] <= suWeal / 2){
-            pos--;
+        if(ar[i] <= suWea / 2){
+            posi--;
         }
         else{
             break;
         }
     }
-    cout<<pos<<endl;
+    cout<<posi<<endl;
 
 
     // {
